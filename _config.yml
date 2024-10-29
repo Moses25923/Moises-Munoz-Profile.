@@ -7,8 +7,7 @@ url: "https://Moses25923.github.io"
 baseurl: "/Moises-Munoz-Profile."
 repository: "Moses25923/Moises-Munoz-Profile."
 header:
-  image: /assets/images/banner-husky.jpg
-
+  image: /assets/images/shrek-meme.jpg
 include:
   - _pages
   - assets
