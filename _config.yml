@@ -1,11 +1,11 @@
 # Configs
 
-title: "Jekyll Profile"
+title: "Moises Munoz Profile"
 name: "A Free Job Market Profile in Jekyll"
 email: 
-url: "https://econ-691.github.io"
-baseurl: "/Jekyll-for-Job-Market"
-repository: "ECON-691/Jekyll-for-Job-Market"
+url: "https://Moses25923.github.io"
+baseurl: "/Moises-Munoz-Profile"
+repository: "Moses25923/Moises-Munoz-Profile"
 header:
   image: /assets/images/banner-husky.jpg
 
