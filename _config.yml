@@ -5,7 +5,7 @@ name: "A Free Job Market Profile in Jekyll"
 email: 
 url: "https://Moses25923.github.io"
 baseurl: "/Moises-Munoz-Profile"
-repository: "Moses25923/Moises-Munoz-Profile"
+repository: "/Moises-Munoz-Profile"
 header:
   image: /assets/images/banner-husky.jpg
 
